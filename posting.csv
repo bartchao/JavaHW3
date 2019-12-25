@@ -1,0 +1,618 @@
+1,account,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+2,activity,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+3,added,3,Document Freq:,1, 1, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 ,  CNN20001019.1400.0012 
+4,additional,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+5,aden,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+6,advisory,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+7,afghanistan,3,Document Freq:,0, 0, 0, 0, 0, 0, 0, 3, 0, 0,DocNO:, CNN20001019.1400.0012 
+8,afundamental,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+9,agency,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+10,aggressive,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+11,ago,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+12,air,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+13,al,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+14,alert,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+15,allen,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+16,allowed,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+17,america,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+18,american,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+19,americans,4,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 2, 0,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0201 
+20,analysts,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+21,announced,3,Document Freq:,0, 0, 0, 0, 1, 2, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+22,answer,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+23,anthony,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+24,arabian,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+25,arctic,1,Document Freq:,0, 0, 0, 0, 1, 0, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 
+26,area,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+27,areas,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+28,armed,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+29,arrive,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+30,asking,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+31,assists,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+32,associated,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+33,attack,4,Document Freq:,0, 0, 0, 0, 0, 0, 0, 4, 0, 0,DocNO:, CNN20001019.1400.0012 
+34,attacks,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+35,attempts,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+36,attract,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+37,august,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+38,average,2,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, APW20010120.0310.0146 ,  CNN20001019.1400.0229 
+39,ban,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+40,bank,2,Document Freq:,0, 0, 2, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+41,barak,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+42,barents,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+43,baron,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+44,base,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+45,basket,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+46,baskets,2,Document Freq:,0, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+47,bc,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+48,begin,3,Document Freq:,0, 0, 0, 0, 1, 1, 0, 1, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+49,believe,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+50,bell,2,Document Freq:,0, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+51,best,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+52,big,3,Document Freq:,1, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+53,billet,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+54,bin,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+55,blast,3,Document Freq:,0, 0, 0, 0, 0, 0, 0, 3, 0, 0,DocNO:, CNN20001019.1400.0012 
+56,board,4,Document Freq:,0, 0, 0, 0, 2, 1, 0, 1, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+57,boards,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+58,bodies,9,Document Freq:,1, 0, 0, 1, 1, 3, 0, 3, 0, 0,DocNO:, APW20010120.0310.0146 ,  XIN20001002.0800.0051 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+59,bombers,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+60,boston,3,Document Freq:,0, 3, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+61,broadcom,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+62,broke,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+63,brown,3,Document Freq:,3, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+64,bruised,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+65,bucks,7,Document Freq:,7, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+66,built,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+67,burst,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+68,caffey,3,Document Freq:,3, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+69,called,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+70,came,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+71,camera,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+72,campbell,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+73,carrier,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+74,case,4,Document Freq:,0, 0, 0, 1, 0, 0, 0, 3, 0, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+75,cassell,5,Document Freq:,5, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+76,catastrophic,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+77,causes,1,Document Freq:,0, 0, 0, 0, 1, 0, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 
+78,cautious,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+79,center,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+80,central,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+81,change,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+82,charlotte,6,Document Freq:,6, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+83,check,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+84,chiefs,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+85,chinese,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+86,chipmaker,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+87,christian,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+88,chuck,1,Document Freq:,0, 0, 0, 0, 0, 0, 1, 0, 0, 0,DocNO:, CNN20001019.1400.0001 
+89,claim,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+90,clear,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+91,closed,2,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, APW20010120.2106.0704 ,  CNN20001019.1400.0229 
+92,cnn,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+93,coast,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+94,cole,4,Document Freq:,0, 0, 0, 0, 0, 0, 0, 4, 0, 0,DocNO:, CNN20001019.1400.0012 
+95,coleman,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+96,college,3,Document Freq:,0, 3, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+97,combined,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+98,come,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+99,commander,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+100,commission,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+101,committee,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+102,communications,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+103,companies,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+104,concert,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+105,conclusion,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+106,conditions,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+107,confidential,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+108,confirmed,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+109,congress,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+110,considerable,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+111,continuted,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+112,council,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+113,court,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+114,crew,3,Document Freq:,0, 0, 0, 0, 1, 1, 0, 1, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+115,crippled,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+116,crowd,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+117,cutting,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+118,damaged,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+119,dancing,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+120,dangerous,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+121,data,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+122,david,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+123,davis,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+124,days,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+125,dec,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+126,decided,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+127,decision,3,Document Freq:,0, 0, 0, 0, 0, 2, 0, 1, 0, 0,DocNO:, AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+128,decisive,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+129,decks,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+130,defeated,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+131,defender,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+132,defense,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+133,delaware,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+134,delegation,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+135,department,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+136,depth,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+137,deputy,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+138,derrick,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+139,described,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+140,destroyer,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+141,detecting,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+142,develop,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+143,developing,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+144,developments,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+145,digit,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+146,digits,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+147,dinghy,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+148,directer,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+149,direction,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+150,director,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+151,disaster,2,Document Freq:,0, 0, 0, 1, 1, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 
+152,dismal,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+153,division,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+154,does,2,Document Freq:,0, 0, 0, 1, 0, 1, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.1000.0062 
+155,double,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+156,doubt,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+157,dover,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+158,dow,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+159,downturn,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+160,drew,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+161,drives,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+162,driving,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+163,duke,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+164,dumps,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+165,dunk,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+166,eagles,4,Document Freq:,0, 4, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+167,early,4,Document Freq:,1, 1, 0, 0, 0, 0, 0, 1, 0, 1,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 ,  CNN20001019.1400.0012 ,  CNN20001019.1400.0229 
+168,earnings,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+169,east,3,Document Freq:,0, 2, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, APW20010120.2106.0704 ,  CNN20001019.1400.0012 
+170,efforts,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+171,egyptian,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+172,ehud,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+173,elden,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+174,elements,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+175,encouraged,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+176,entering,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+177,entice,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+178,environment,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+179,estimated,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+180,estrada,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+181,evidence,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+182,exclude,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+183,explosion,1,Document Freq:,0, 0, 0, 0, 1, 0, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 
+184,extended,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+185,eyewitnesss,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+186,face,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+187,famine,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+188,fans,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+189,far,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+190,fbi,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+191,feast,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+192,field,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+193,final,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+194,finger,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+195,finished,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+196,fireworks,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+197,firm,1,Document Freq:,0, 0, 0, 0, 1, 0, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 
+198,float,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+199,flown,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+200,flu,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+201,follow,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+202,force,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+203,forces,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+204,forcing,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+205,foreign,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+206,forensic,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+207,forward,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+208,foul,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+209,fourth,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+210,fragile,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+211,free,4,Document Freq:,3, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+212,freeh,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+213,freezes,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+214,friday,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+215,fuel,2,Document Freq:,0, 0, 2, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+216,galapagos,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+217,gallons,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+218,game,8,Document Freq:,4, 4, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+219,games,5,Document Freq:,4, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+220,general,2,Document Freq:,0, 0, 0, 0, 0, 1, 0, 1, 0, 0,DocNO:, AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+221,german,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+222,glenn,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+223,goaltending,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+224,going,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+225,good,3,Document Freq:,1, 0, 0, 0, 0, 0, 0, 1, 0, 1,DocNO:, APW20010120.0310.0146 ,  CNN20001019.1400.0012 ,  CNN20001019.1400.0229 
+226,gov,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+227,government,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+228,gradually,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+229,grew,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+230,group,2,Document Freq:,1, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, APW20010120.0310.0146 ,  CNN20001019.1400.0012 
+231,groups,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+232,gulf,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+233,half,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+234,halftime,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+235,harley,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+236,headline,1,Document Freq:,0, 0, 0, 0, 0, 0, 1, 0, 0, 0,DocNO:, CNN20001019.1400.0001 
+237,help,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+238,helped,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+239,high,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+240,higher,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 1,DocNO:, CNN20001019.1400.0201 ,  CNN20001019.1400.0229 
+241,hindu,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+242,hit,2,Document Freq:,0, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+243,holding,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+244,hole,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+245,home,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+246,hornets,9,Document Freq:,9, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+247,hunt,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+248,hurt,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+249,identified,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+250,ilya,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+251,improved,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+252,improving,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+253,incentive,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+254,incident,2,Document Freq:,0, 0, 0, 0, 0, 2, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+255,increase,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+256,industrial,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+257,inside,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+258,intensity,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+259,interfax,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+260,interior,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+261,internet,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+262,investigation,3,Document Freq:,0, 0, 0, 0, 0, 0, 0, 3, 0, 0,DocNO:, CNN20001019.1400.0012 
+263,investigators,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+264,investors,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 2,DocNO:, CNN20001019.1400.0229 
+265,involved,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+266,islands,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+267,israel,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+268,israelis,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+269,issue,2,Document Freq:,0, 0, 0, 1, 0, 1, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.1000.0062 
+270,ivanov,3,Document Freq:,0, 0, 0, 3, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+271,j,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+272,jamal,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+273,jason,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+274,jihad,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+275,joins,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+276,jones,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+277,jumper,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+278,just,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+279,keeps,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+280,kenny,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+281,key,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+282,kill,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+283,killed,3,Document Freq:,0, 0, 1, 1, 0, 0, 0, 1, 0, 0,DocNO:, APW20010124.1256.0442 ,  XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+284,kind,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+285,klebanov,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+286,knee,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+287,knights,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+288,known,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+289,kursk,4,Document Freq:,0, 0, 0, 2, 1, 1, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+290,laden,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+291,lane,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+292,large,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+293,larger,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+294,late,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+295,launched,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+296,layup,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+297,lead,6,Document Freq:,3, 3, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+298,leaders,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+299,league,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+300,led,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+301,left,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+302,let,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+303,lift,2,Document Freq:,0, 0, 0, 0, 0, 2, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+304,lifting,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+305,likely,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+306,line,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+307,lions,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+308,list,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+309,literally,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+310,little,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+311,living,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+312,locations,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+313,looking,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+314,loose,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+315,loser,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+316,losing,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+317,losses,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+318,lost,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+319,louis,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+320,low,2,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, APW20010120.0310.0146 ,  CNN20001019.1400.0201 
+321,lunar,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+322,maker,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+323,making,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+324,man,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+325,march,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+326,marine,2,Document Freq:,0, 0, 1, 0, 0, 0, 0, 1, 0, 0,DocNO:, APW20010124.1256.0442 ,  CNN20001019.1400.0012 
+327,mashburn,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+328,mass,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+329,matter,2,Document Freq:,0, 0, 0, 1, 0, 1, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.1000.0062 
+330,maybe,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+331,members,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+332,metal,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+333,metres,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+334,microsoft,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+335,mid,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+336,middle,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+337,military,2,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 1, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0201 
+338,milwaukee,3,Document Freq:,3, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+339,minister,3,Document Freq:,0, 0, 1, 0, 1, 1, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+340,minutes,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+341,miss,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+342,mobile,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+343,monks,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+344,moral,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+345,motivation,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+346,mount,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+347,moved,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+348,music,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+349,naked,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+350,national,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+351,nature,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+352,ncaa,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+353,new,2,Document Freq:,0, 0, 1, 0, 0, 1, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 ,  AFA20001018.1000.0062 
+354,news,1,Document Freq:,0, 0, 0, 0, 0, 0, 1, 0, 0, 0,DocNO:, CNN20001019.1400.0001 
+355,night,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+356,nokia,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+357,non,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+358,notes,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+359,nuclear,2,Document Freq:,0, 0, 0, 1, 1, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 
+360,number,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+361,numbers,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 1,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0229 
+362,occasions,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+363,occurred,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+364,offense,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+365,official,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+366,officials,6,Document Freq:,0, 0, 0, 0, 0, 0, 0, 4, 2, 0,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0201 
+367,online,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+368,operated,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+369,operation,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+370,opponent,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+371,order,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+372,osama,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+373,otis,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+374,p,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+375,pacific,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+376,paddle,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+377,pair,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+378,peace,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+379,peninsula,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+380,pentagon,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 1, 0,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0201 
+381,people,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 1, 0,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0201 
+382,percent,4,Document Freq:,1, 3, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+383,perform,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+384,perpetrators,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+385,persian,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+386,persons,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+387,phone,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+388,place,3,Document Freq:,1, 0, 0, 0, 0, 1, 0, 1, 0, 0,DocNO:, APW20010120.0310.0146 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+389,plane,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+390,play,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+391,plunge,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+392,plunged,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+393,pointed,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+394,pointers,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+395,pointing,3,Document Freq:,0, 0, 0, 0, 0, 2, 0, 1, 0, 0,DocNO:, AFA20001018.1000.0062 ,  CNN20001019.1400.0012 
+396,points,10,Document Freq:,6, 3, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 ,  CNN20001019.1400.0229 
+397,poor,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+398,port,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+399,post,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+400,postponed,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+401,potential,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+402,precedent,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+403,presence,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+404,president,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+405,prices,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+406,prime,3,Document Freq:,0, 0, 1, 0, 1, 1, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+407,principles,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+408,priority,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+409,process,4,Document Freq:,0, 0, 0, 0, 2, 2, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+410,profile,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+411,progress,3,Document Freq:,0, 0, 0, 0, 0, 0, 0, 3, 0, 0,DocNO:, CNN20001019.1400.0012 
+412,protection,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+413,provider,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+414,providing,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+415,public,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+416,pulled,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+417,quarter,4,Document Freq:,4, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+418,quoted,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+419,ranked,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+420,ray,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+421,rebounds,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+422,recalls,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+423,recouping,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+424,recover,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+425,recovered,3,Document Freq:,0, 0, 0, 0, 0, 0, 0, 3, 0, 0,DocNO:, CNN20001019.1400.0012 
+426,recovering,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+427,redeemed,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+428,reduce,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+429,refueled,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+430,refueling,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+431,regional,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+432,relations,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+433,relieve,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+434,remaining,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+435,remains,2,Document Freq:,0, 0, 0, 1, 0, 0, 0, 1, 0, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+436,remnants,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+437,replayed,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+438,reports,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+439,reserve,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+440,resort,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+441,responsibility,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+442,rest,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+443,retired,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+444,returning,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+445,risky,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+446,river,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+447,road,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+448,roberts,1,Document Freq:,0, 0, 0, 0, 0, 0, 1, 0, 0, 0,DocNO:, CNN20001019.1400.0001 
+449,robinson,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+450,rodgers,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+451,routes,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+452,routine,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+453,rubber,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+454,rule,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+455,run,5,Document Freq:,3, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+456,russia,4,Document Freq:,0, 0, 0, 4, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+457,russian,7,Document Freq:,0, 0, 0, 3, 2, 2, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+458,rutgers,4,Document Freq:,0, 4, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+459,ryan,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+460,s,16,Document Freq:,1, 2, 1, 1, 0, 0, 0, 8, 1, 2,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 ,  APW20010124.1256.0442 ,  XIN20001002.0800.0051 ,  CNN20001019.1400.0012 ,  CNN20001019.1400.0201 ,  CNN20001019.1400.0229 
+461,said,4,Document Freq:,0, 0, 0, 3, 0, 0, 0, 1, 0, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+462,sailors,1,Document Freq:,0, 0, 0, 0, 1, 0, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 
+463,saleh,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+464,salvage,7,Document Freq:,0, 0, 0, 6, 0, 0, 0, 1, 0, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+465,sam,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+466,sank,2,Document Freq:,0, 0, 0, 1, 1, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 
+467,sat,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+468,saturday,2,Document Freq:,0, 2, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+469,save,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+470,say,13,Document Freq:,0, 0, 0, 0, 0, 0, 0, 9, 3, 1,DocNO:, CNN20001019.1400.0012 ,  CNN20001019.1400.0201 ,  CNN20001019.1400.0229 
+471,saying,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+472,says,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+473,scarlet,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+474,scene,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+475,scheduled,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+476,score,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+477,scored,5,Document Freq:,4, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+478,scoring,3,Document Freq:,3, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+479,sea,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+480,sealed,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+481,search,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+482,season,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+483,second,6,Document Freq:,0, 2, 0, 1, 0, 1, 1, 1, 0, 0,DocNO:, APW20010120.2106.0704 ,  XIN20001002.0800.0051 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0001 ,  CNN20001019.1400.0012 
+484,secretary,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+485,security,2,Document Freq:,0, 0, 1, 1, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 ,  XIN20001002.0800.0051 
+486,selection,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+487,senate,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+488,senators,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+489,send,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+490,senior,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+491,served,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+492,service,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+493,services,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+494,sets,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+495,seven,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+496,ship,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+497,shoot,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+498,shooting,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+499,short,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+500,shot,5,Document Freq:,4, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+501,shots,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+502,showed,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+503,sidney,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+504,significant,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+505,simply,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+506,single,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+507,singletary,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+508,site,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+509,slowly,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+510,snake,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+511,snapped,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+512,softwaremaker,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+513,somewhat,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+514,sources,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+515,spilling,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+516,spots,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+517,square,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+518,staff,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+519,stands,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+520,start,3,Document Freq:,1, 1, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 ,  APW20010124.1256.0442 
+521,started,2,Document Freq:,1, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 ,  APW20010120.2106.0704 
+522,state,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+523,states,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+524,stock,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 1,DocNO:, CNN20001019.1400.0229 
+525,story,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+526,straight,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+527,strategic,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+528,streak,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+529,street,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 2,DocNO:, CNN20001019.1400.0229 
+530,stressed,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+531,stretch,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+532,stretched,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+533,stricken,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+534,struggled,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+535,struggling,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+536,submarine,7,Document Freq:,0, 0, 0, 4, 2, 1, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 ,  AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+537,submerged,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+538,success,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+539,successful,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+540,support,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+541,t,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+542,taba,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+543,tangled,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+544,tanker,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+545,team,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+546,teams,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+547,technical,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+548,television,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+549,temple,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+550,terrorism,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+551,terrorist,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 2, 0,DocNO:, CNN20001019.1400.0201 
+552,testifies,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+553,thanks,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+554,theories,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+555,thinks,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+556,thorpe,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+557,throw,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+558,throwing,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+559,throws,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+560,tiananmen,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+561,tight,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+562,time,3,Document Freq:,0, 1, 0, 0, 0, 0, 0, 1, 0, 1,DocNO:, APW20010120.2106.0704 ,  CNN20001019.1400.0012 ,  CNN20001019.1400.0229 
+563,times,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+564,tired,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+565,today,8,Document Freq:,0, 0, 0, 0, 2, 2, 0, 2, 0, 2,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 ,  CNN20001019.1400.0012 ,  CNN20001019.1400.0229 
+566,todd,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+567,told,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+568,tomorrow,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+569,took,2,Document Freq:,2, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+570,tournament,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+571,travel,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 2, 0,DocNO:, CNN20001019.1400.0201 
+572,triple,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+573,troy,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+574,tuesday,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+575,turkey,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 2, 0,DocNO:, CNN20001019.1400.0201 
+576,u,5,Document Freq:,0, 0, 0, 1, 0, 0, 0, 4, 0, 0,DocNO:, XIN20001002.0800.0051 ,  CNN20001019.1400.0012 
+577,understand,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+578,united,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+579,updates,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+580,urging,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+581,used,2,Document Freq:,1, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, APW20010120.0310.0146 ,  CNN20001019.1400.0012 
+582,uss,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+583,usual,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+584,valery,1,Document Freq:,0, 0, 0, 0, 0, 1, 0, 0, 0, 0,DocNO:, AFA20001018.1000.0062 
+585,varying,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+586,victims,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+587,victory,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+588,vulnerability,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+589,wall,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 2,DocNO:, CNN20001019.1400.0229 
+590,walter,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 2, 0, 0,DocNO:, CNN20001019.1400.0012 
+591,wants,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+592,warns,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 1, 0,DocNO:, CNN20001019.1400.0201 
+593,warship,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+594,watch,1,Document Freq:,0, 0, 0, 0, 0, 0, 1, 0, 0, 0,DocNO:, CNN20001019.1400.0001 
+595,way,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+596,weather,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+597,wednesday,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+598,week,2,Document Freq:,0, 0, 0, 0, 1, 1, 0, 0, 0, 0,DocNO:, AFA20001018.0000.0020 ,  AFA20001018.1000.0062 
+599,weekend,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+600,welcome,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+601,went,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+602,wesley,3,Document Freq:,3, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+603,west,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+604,win,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+605,winners,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+606,winning,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+607,wire,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+608,withdrawal,1,Document Freq:,0, 0, 0, 1, 0, 0, 0, 0, 0, 0,DocNO:, XIN20001002.0800.0051 
+609,work,1,Document Freq:,1, 0, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.0310.0146 
+610,world,1,Document Freq:,0, 0, 1, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+611,worst,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+612,xavier,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+613,year,2,Document Freq:,0, 0, 2, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010124.1256.0442 
+614,years,1,Document Freq:,0, 1, 0, 0, 0, 0, 0, 0, 0, 0,DocNO:, APW20010120.2106.0704 
+615,yemen,8,Document Freq:,0, 0, 0, 0, 0, 0, 0, 8, 0, 0,DocNO:, CNN20001019.1400.0012 
+616,yemeni,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
+617,yesterday,2,Document Freq:,0, 0, 0, 0, 0, 0, 0, 0, 0, 2,DocNO:, CNN20001019.1400.0229 
+618,zinni,1,Document Freq:,0, 0, 0, 0, 0, 0, 0, 1, 0, 0,DocNO:, CNN20001019.1400.0012 
